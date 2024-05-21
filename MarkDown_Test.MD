@@ -1,8 +1,8 @@
 ###  Kubernetes Exercises to Try out
 
 Pod:
-1. abd
-1. something else
+1. https://github.com/rchidana/Kubernetes/blob/master/Pod/my-pod.yaml <br>
+1. http://google.com <br>
 
 New thing:
 1. new numbers
