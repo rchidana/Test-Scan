@@ -1,7 +1,7 @@
 ###  Kubernetes Exercises to Try out
 
 Pod:
-1. https://github.com/rchidana/Kubernetes/blob/master/Pod/my-pod.yaml <br>
+1. My-Pod : https://github.com/rchidana/Kubernetes/blob/master/Pod/my-pod.yaml <br>
 1. http://google.com <br>
 
 New thing:
